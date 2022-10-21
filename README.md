@@ -14,4 +14,32 @@ That is all the code
 
 Thanks for watching
 
+ep_1290 get Api call
+in This episode / tutorial, i'm going to show you how to call the get api in flutter
+from the open source server....api are fully free you can you it...
+with out any signUP on that websits
+
+Let start
+
+api link should given in the description
+
+I already created a package
+
+
+let see the demo
+
+add the http dependancies
+
+
+copy the  uri of api 
+
+Thanks for you response 
+
+sory I forgot to add the title and body veriable.....
+
+
+
+
+
+
 

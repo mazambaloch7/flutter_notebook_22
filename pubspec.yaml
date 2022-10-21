@@ -40,13 +40,16 @@ dependencies:
 
   dots_indicator: ^2.1.0
   flutter_riverpod: any
-  http: any
+
   freezed_annotation: any
   json_annotation: any
   google_fonts: any
   flutter_staggered_grid_view: any
   ionicons: any
   go_router: ^5.0.3
+  shared_preferences: ^2.0.15
+  http: ^0.13.5
+
 
 dev_dependencies:
   flutter_test:
